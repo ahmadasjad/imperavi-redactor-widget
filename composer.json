@@ -22,7 +22,7 @@
 	},
 	"autoload": {
     		"classmap": [
-        		"ImperaviRedactorWidget.php",
+        		"ImperaviRedactorWidget.php"
     		]
 	}
 }
